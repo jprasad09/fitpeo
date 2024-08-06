@@ -4,7 +4,7 @@ import { BiSolidUpArrow } from "react-icons/bi";
 
 const Profit = () => {
   return (
-    <section className='h-full w-full md:w-[49.5%] xl:w-[35%] bg-[--primary-bg-color] px-3 py-4 rounded flex justify-between'>
+    <section className='h-full w-full md:w-[49.4%] xl:w-[35%] bg-[--primary-bg-color] px-3 py-4 rounded flex justify-between'>
       {/* Profit Details */}
       <div className='flex flex-col'>
         <span className='text-[--primary-text-color] text-[15px]'>Net Profit</span>
