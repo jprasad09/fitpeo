@@ -10,7 +10,7 @@ import { NavLink } from 'react-router-dom';
 // Define common styles for NavLink
 const navLinkStyles = ({ isActive }) =>
   `flex items-center justify-center text-[18px] md:text-[30px] pl-[5px] md:pl-5 pr-[7px] md:pr-[23px] py-1 md:py-2 border-l-[1px] md:border-l-[3px] 
-    hover:text-gray-300 ${isActive ? 'text-[--secondary-bg-color] border-[--secondary-bg-color]' : 'text-[--secondary-text-color] border-[--primary-bg-color]'
+    ${isActive ? 'text-[--secondary-bg-color] border-[--secondary-bg-color]' : 'text-[--secondary-text-color] border-[--primary-bg-color] hover:text-gray-300'
   }`;
 
 const Sidebar = () => {
