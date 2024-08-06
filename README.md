@@ -7,9 +7,7 @@ A real-time dashboard for a food app that monitors order activity, customer revi
 
 https://fitpeo-rouge.vercel.app
 
-
-https://www.loom.com/share/5a2ef36abfa34b188cb9329393b833b1?sid=6b72ff58-90ed-4715-8bbc-9064db6ca4ee
-
+https://github.com/user-attachments/assets/a2192d34-9149-4e03-adf7-76f312ed540b
 
 
 ## Screenshots
